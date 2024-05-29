@@ -1,10 +1,14 @@
 import pandas as pd
 
 
+
 def main():
     print("Hello, World!")
 
-    DimensieProduct()
+
+
+    print(DimensieProduct())
+
 
 def DimensieProduct():
     import pyodbc
